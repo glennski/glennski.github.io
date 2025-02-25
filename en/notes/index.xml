@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on Glennski</title>
+    <link>/en/notes/</link>
+    <description>Recent content in Notes on Glennski</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 25 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/en/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example Note</title>
+      <link>/en/notes/example-note/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/en/notes/example-note/</guid>
+      <description>&lt;p&gt;This is a english demo note.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

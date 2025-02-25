@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Glennski</title>
+    <title>Welcome to Glennski&#39;s Website on Glennski</title>
     <link>/</link>
-    <description>Recent content on Glennski</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Welcome to Glennski&#39;s Website on Glennski</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description>&lt;p&gt;Über Mich&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Demo Note</title>
+      <link>/notes/demo-note/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/notes/demo-note/</guid>
+      <description>&lt;p&gt;This is a demo note.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Demo Project</title>
+      <link>/projects/demo-project/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/projects/demo-project/</guid>
+      <description>&lt;p&gt;This is a demo project.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projekt 1</title>
+      <link>/projects/projekt-1/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/projects/projekt-1/</guid>
+      <description>&lt;p&gt;Dies ist Projekt 1.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Welcome to Glennski&#39;s Website</title>
-      <link>/</link>
+      <link>/en/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/</guid>
-      <description>Nur meine super hässlige Github Page. Noch nicht fertig. Versuche den Dreh heraus zu bekommen</description>
+      <guid>/en/</guid>
+      <description>&lt;p&gt;Just my super ugly Github Page. Not yet finished. Just getting the hang of it&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

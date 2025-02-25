@@ -2,7 +2,98 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/about/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/about/"
+                />
+  </url><url>
+    <loc>/notes/demo-note/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/notes/example-note/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/notes/demo-note/"
+                />
+  </url><url>
+    <loc>/projects/demo-project/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/projects/demo-project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/projects/demo-project/"
+                />
+  </url><url>
+    <loc>/notes/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/notes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/notes/"
+                />
+  </url><url>
+    <loc>/projects/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/projects/"
+                />
+  </url><url>
+    <loc>/projects/projekt-1/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/projects/project-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/projects/projekt-1/"
+                />
+  </url><url>
     <loc>/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/"
+                />
+  </url><url>
+    <loc>/en/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
@@ -15,18 +106,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="/categories/"
-                />
-  </url><url>
-    <loc>/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/"
                 />
   </url><url>
     <loc>/tags/</loc>
